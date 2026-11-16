@@ -11,6 +11,7 @@ export const site = {
 
 // Bhalucraft (clothing brand) - used by /offerings/bhalucraft.
 export const bhalucraft = {
+  url:'https://www.bhalucraft.in',
   instagram: 'https://www.instagram.com/thebhalucraft/',
   instagramHandle: '@thebhalucraft',
   // WhatsApp number that receives T-shirt orders (digits only, with country code).
